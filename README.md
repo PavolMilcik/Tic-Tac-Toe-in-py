@@ -1,4 +1,4 @@
-# A text-based console game - Tic-Tac-Toe - :x: vs. :o:
+## A text-based console game - Tic-Tac-Toe - :x: vs. :o:
 I created a text-based console game: **Tic-Tac-Toe**, 
 <br>also known as Noughts and Crosses or Xs and Os, in Python.
 
@@ -9,7 +9,7 @@ This **Python-based** implementation allows you to challenge your friends
 
 Enjoy hours of fun and strategic thinking!
 
-## What game have I created? :technologist:
+### What game have I created? :technologist:
 In this game, **two players** are involved.
 
 - At the beginning of the game, they choose their player **names** and player **symbols**.
