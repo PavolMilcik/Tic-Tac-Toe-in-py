@@ -9,7 +9,7 @@ This **Python-based** implementation allows you to challenge your friends
 
 Enjoy hours of fun and strategic thinking!
 
-### What game have I created? :technologist:
+## What game have I created? :technologist:
 In this game, **two players** are involved.
 
 - At the beginning of the game, they choose their player **names** and player **symbols**.
