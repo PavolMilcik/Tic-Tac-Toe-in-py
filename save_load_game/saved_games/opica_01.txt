@@ -1,0 +1,9 @@
+First Player Saved Info:
+name - Pavol
+symbol - x
+number of wins - 5
+
+Second Player Saved Info:
+name - Lenka
+symbol - o
+number of wins - 1
